@@ -13,8 +13,4 @@ class Player
 
 end
 
-steve = Player.new("Steve")
-# puts steve.score
-# puts steve.name
-# steve.decrement_score
-# puts steve.score
+
