@@ -12,7 +12,6 @@ player2 = Player.new('Player 2')
 # make game object
 
 new_game = Game.new(player1, player2)
-# new_problem = MathProblem.new
 
 new_game.start_game(MathProblem)
 
