@@ -16,6 +16,3 @@ new_game = Game.new(player1, player2)
 
 new_game.start_game(MathProblem)
 
-puts new_game.player_list[0].score
-
-# puts new_problem.answer
